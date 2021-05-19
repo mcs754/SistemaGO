@@ -1,0 +1,35 @@
+2ª Parte - Considere os seguintes critérios fictícios para desenvolver Sistema Gerenciador de Operações
+
+1) Crie um sistema que permita o controle de operações. O cadastro deverá conter os seguintes dados:
+• nome do cliente
+• moeda de origem
+• moeda de destino
+• data da operação
+• valor original
+• valor convertido
+• taxa cobrada
+
+2) O sistema deve fornecer os seguintes relatórios:
+• lista de operações
+• valor total das operações
+• valor total das taxas cobradas
+
+3) Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
+
+4) O valor de conversão de cada moeda para Reais poderá ser definido no código-fonte ou cadastrado pelo usuário do sistema. O cadastro de valores de conversão garantirá pontos extras na avaliação.
+
+Critérios de avaliação:
+Atendimento aos requisitos: 5 pontos
+Estrutura do código: 1 ponto
+Persistência de dados: 1 ponto
+Separação de camadas: 1 ponto
+Documentação: 1 ponto
+Testes unitários: 1 ponto
+Pontuação total: 10
+
+Entrega da Solução:
+O código fonte desse sistema precisa ser entregue através de um repositório público no Github. O código deve incluir o arquivo README na raiz com a documentação do sistema, incluindo a descrição de como compilar e executar o programa, além das instruções de utilização. A resposta ao ‘desafio será o link do repositório público
+
+As informações de acesso ao seu repositório público devem ser enviadas para nossa equipe de seleção até o dia 23 de maio de 2021, através do e-mail havan@proway.com.br
+
+Serão ignorados os desafios que não respeitarem as considerações da entrega da solução.
