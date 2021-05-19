@@ -19,6 +19,6 @@ O SistemaGO foi desenvolvido utilizando um microcomputador com o sistema operaci
 ## Contato
 [Instagram](https://www.instagram.com/marcosvha/)
 
-[Whatsapp](abre.ai/marcosvha)
+[Whatsapp](https://api.whatsapp.com/send?phone=5547991768278)
 
 [E-mail](mailto:mcs754@gmail.com)
