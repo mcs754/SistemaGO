@@ -24,6 +24,9 @@ Após a instalação, apenas rode um servidor PHP na mesma pasta que você salvo
 
 Após isso se você conseguir abrir o SistemaGO no seu navegador, pode ser que ele ainda não funcione pois ainda falta criar o banco de dados utilizando o MySQL. Os scripts estão todos prontos basta executá-los e os mesmos estão salvos em SistemaGO/Database/sistemago.sql. É importante lembrar que a minha senha de acesso ao banco de dados é *123456* e você deve atualizar o arquivo contendo esta senha se a senha que você configurou para acessar o seu sgbd for diferente. O arquivo contendo a senha está salva em SistemaGO/App/DAO/Conexao.php e lá eu deixei comentários explicando detalhes para alterar a senha.
 
+## Capturas de telas
+Veja captura de telas do sistema através deste [link](https://photos.app.goo.gl/TjGWx2kxrLr3rubj6).
+
 ## Contato
 [Instagram](https://www.instagram.com/marcosvha/)
 
