@@ -16,6 +16,14 @@ O SistemaGO foi desenvolvido utilizando um microcomputador com o sistema operaci
 
 * Utilizou-se o framework Bootstrap versão 5.0.1.
 
+## Implementação
+Para compilar localmente o SistemaGO é necessário que seja instalado no seu computdor a linguagem PHP na versão descrita no parágrafo anterior, instalar também o servidor MySQL para que seja possível criar o banco de dados e se o seu computador tiver o sistema operacional Windows 10, é necessário instalar também o Microsoft Visual C++2015 na versão 14.28.299.14.0 ou pelo menos garantir que o seu computador já o tenha para evitar erros no PHP.
+
+Após a instalação, apenas rode um servidor PHP na mesma pasta que você salvou o SistemaGO. Para rodar o servidor é muito simples basta digitar os seguintes comandos no terminal de comandos do seu computador:
+`php -S localhost:8080`
+
+Após isso se você conseguir abrir o SistemaGO no seu navegador, pode ser que ele ainda não funcione pois ainda falta criar o banco de dados utilizando o MySQL. Os scripts estão todos prontos basta executá-los e os mesmos estão salvos em SistemaGO/Database/sistemago.sql. É importante lembrar que a minha senha de acesso ao banco de dados é *123456* e você deve atualizar o arquivo contendo esta senha se a senha que você configurou para acessar o seu sgbd for diferente. O arquivo contendo a senha está salva em SistemaGO/App/DAO/Conexao.php e lá eu deixei comentários explicando detalhes para alterar a senha.
+
 ## Contato
 [Instagram](https://www.instagram.com/marcosvha/)
 
