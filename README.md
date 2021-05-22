@@ -26,7 +26,6 @@ Após isso se você conseguir abrir o SistemaGO no seu navegador, pode ser que e
 
 ## Capturas de telas
 Veja captura de telas do sistema através deste [link](https://photos.app.goo.gl/TjGWx2kxrLr3rubj6).
-![Screenshots](https://photos.app.goo.gl/TjGWx2kxrLr3rubj6)
 
 ## Contato
 [Instagram](https://www.instagram.com/marcosvha/)
