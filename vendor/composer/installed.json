@@ -57,7 +57,7 @@
                     "type": "open_collective"
                 }
             ],
-            "install-path": "../twbs/bootstrap"
+            "install-path": "../../Vendor/twbs/bootstrap"
         }
     ],
     "dev": true,

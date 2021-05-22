@@ -6,8 +6,8 @@
 • moeda de destino
 • data da operação
 • valor original
-• valor convertido
 • taxa cobrada
+• valor convertido (gerado)
 
 2) O sistema deve fornecer os seguintes relatórios:
 • lista de operações
