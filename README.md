@@ -31,4 +31,4 @@ Veja captura de telas do sistema através deste [link](https://photos.app.goo.gl
 O sistema ainda não está concluído. Os cálculos ainda não estão 100% como deveria e ainda faltaram fazer mais algumas telas de relatórios com opçoes de filtro, como requisitado. Eu escolhi o padrão de projeto MVC para desenvolver o SistemaGO devido à sua pouca complexidade. Por fim espero que o mesmo tenha chamado a atenção e que eu possa ser chamado para uma entrevista na HavanLabs. Eu moro em Itajaí atualmente e estou disposto até mesmo a me mudar para Brusque se for necessário para que eu possa trabalhar na HavanLabs que no momento é a principal meta desenvolver a minha carreira.
 
 ## Contato
-[Instagram](https://www.instagram.com/marcosvha/)  [Whatsapp](https://api.whatsapp.com/send?phone=5547991768278)  [E-mail](mailto:mcs754@gmail.com)
+[Whatsapp](https://api.whatsapp.com/send?phone=5547991768278) - [Instagram](https://www.instagram.com/marcosvha/) - [E-mail](mailto:mcs754@gmail.com)
