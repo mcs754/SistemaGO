@@ -25,11 +25,10 @@ Após a instalação, apenas rode um servidor PHP na mesma pasta que você salvo
 Após isso se você conseguir abrir o SistemaGO no seu navegador, pode ser que ele ainda não funcione pois ainda falta criar o banco de dados utilizando o MySQL. Os scripts estão todos prontos basta executá-los e os mesmos estão salvos em SistemaGO/Database/sistemago.sql. É importante lembrar que a minha senha de acesso ao banco de dados é *123456* e você deve atualizar o arquivo contendo esta senha se a senha que você configurou para acessar o seu sgbd for diferente. O arquivo contendo a senha está salva em SistemaGO/App/DAO/Conexao.php e lá eu deixei comentários explicando detalhes para alterar a senha.
 
 ## Capturas de telas
-Veja captura de telas do sistema através deste [link](https://photos.app.goo.gl/TjGWx2kxrLr3rubj6).
+Veja captura de telas do sistema através deste [link](https://photos.app.goo.gl/TjGWx2kxrLr3rubj6). Ou se preferir acesse manualmente SistemaGo/Screenshots.
+
+## Conclusão
+O sistema ainda não está concluído. Os cálculos ainda não estão 100% como deveria e ainda faltaram fazer mais algumas telas de relatórios com opçoes de filtro, como requisitado. Eu escolhi o padrão de projeto MVC para desenvolver o SistemaGO devido à sua pouca complexidade. Por fim espero que o mesmo tenha chamado a atenção e que eu possa ser chamado para uma entrevista na HavanLabs. Eu moro em Itajaí atualmente e estou disposto até mesmo a me mudar para Brusque se for necessário para que eu possa trabalhar na HavanLabs que no momento é a principal meta desenvolver a minha carreira.
 
 ## Contato
-[Instagram](https://www.instagram.com/marcosvha/)
-
-[Whatsapp](https://api.whatsapp.com/send?phone=5547991768278)
-
-[E-mail](mailto:mcs754@gmail.com)
+[Instagram](https://www.instagram.com/marcosvha/)  [Whatsapp](https://api.whatsapp.com/send?phone=5547991768278)  [E-mail](mailto:mcs754@gmail.com)
